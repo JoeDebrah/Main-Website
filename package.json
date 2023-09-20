@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "portfolio-website",
   "private": true,
   "version": "0.0.0",
@@ -31,5 +32,18 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "vite": "^4.4.5"
+=======
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve-static": "^1.15.0"
+>>>>>>> 931979b8284edc89aa9c5ecea1c23d2e131f6767
   }
 }
