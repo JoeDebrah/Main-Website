@@ -35,7 +35,7 @@ First, run npm install:
 ```bash
 npm install
 # then
-npm start
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
