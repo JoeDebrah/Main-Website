@@ -1,8 +1,42 @@
-# React + Vite
+# Main Website
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Author Links
 
-Currently, two official plugins are available:
+👋 Hello there, I'm Joe Debrah
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ [Check out my other Web Development portfolio's here on Github](https://github.com/JoeDebrah).
+
+---
+---
+
+🚀 Check out my Linkedin below:
+
+- [Github](https://github.com/JoeDebrah)
+- [LinkedIn](https://www.linkedin.com/in/joe-debrah-953972264/)
+
+---
+
+### Description
+
+🛠️ This is an interesting project i built with the help of the resources available of the react-bootstrap & react-hook-form website. It is a simple website about myself that links other projects i've worked on and a contact form built with react-bootstrap react-hook-form and validated with zod. This was largely built with react-bootstrap & react-hook-form.
+
+---
+
+### 📚 Website References
+- 🔗 [react-bootstrap](https://react-bootstrap.netlify.app/)
+- 🔗 [react-hook-form Official Website](https://react-hook-form.com/)
+---
+
+## Getting Started
+
+First, run npm install:
+
+```bash
+npm install
+# then
+npm start
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
