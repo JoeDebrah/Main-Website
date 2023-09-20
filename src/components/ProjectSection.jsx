@@ -12,7 +12,7 @@ function ProjectSection() {
 
                 <Col className='px-3'>
                     <Card>
-                        <Card.Img variant="top" src="src/assets/DataFetch.png" />
+                        <Card.Img variant="top" src="https://raw.githubusercontent.com/JoeDebrah/React-DataFetch-Project/main/preview_screenshots/DataFetch.png" />
                         <Card.Body>
                             <Card.Title>Data Fetch Website</Card.Title>
                             <Card.Text>
@@ -23,7 +23,7 @@ function ProjectSection() {
                 </Col>
                 <Col className='px-3'>
                     <Card>
-                        <Card.Img variant="top" src="src/assets/bootstrap-site-image.png" />
+                        <Card.Img variant="top" src="https://github.com/JoeDebrah/Main-Website/blob/main/src/assets/bootstrap-site-image.png?raw=true" />
                         <Card.Body>
                             <Card.Title>Order An E-Book Online</Card.Title>
                             <Card.Text>
@@ -34,7 +34,7 @@ function ProjectSection() {
                 </Col>
                 <Col className='px-3'>
                     <Card>
-                        <Card.Img variant="top" src="src/assets/login-initial.png" />
+                        <Card.Img variant="top" src="https://github.com/JoeDebrah/Main-Website/blob/main/src/assets/login-initial.png?raw=true" />
                         <Card.Body>
                             <Card.Title>React-Hook-Form</Card.Title>
                             <Card.Text>
@@ -45,7 +45,7 @@ function ProjectSection() {
                 </Col>
                 <Col className='px-3'>
                     <Card>
-                        <Card.Img variant="top" src="src/assets/Home-Page.png" />
+                        <Card.Img variant="top" src="https://raw.githubusercontent.com/JoeDebrah/Main-Website/main/src/assets/Home-Page.png" />
                         <Card.Body>
                             <Card.Title>Tickets Page</Card.Title>
                             <Card.Text>
