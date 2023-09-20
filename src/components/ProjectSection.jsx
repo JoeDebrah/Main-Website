@@ -12,7 +12,11 @@ function ProjectSection() {
 
                 <Col className='px-3'>
                     <Card>
-                        <Card.Img variant="top" src="https://raw.githubusercontent.com/JoeDebrah/React-DataFetch-Project/main/preview_screenshots/DataFetch.png" />
+                    <Nav>
+                            <Nav.Link href='https://github.com/JoeDebrah/React-DataFetch-Project'>
+                                <Card.Img variant="top" src="https://raw.githubusercontent.com/JoeDebrah/React-DataFetch-Project/main/preview_screenshots/DataFetch.png" />
+                            </Nav.Link>
+                        </Nav>
                         <Card.Body>
                             <Card.Title>Data Fetch Website</Card.Title>
                             <Card.Text>
@@ -23,7 +27,11 @@ function ProjectSection() {
                 </Col>
                 <Col className='px-3'>
                     <Card>
-                        <Card.Img variant="top" src="https://github.com/JoeDebrah/Main-Website/blob/main/src/assets/bootstrap-site-image.png?raw=true" />
+                       <Nav>
+                            <Nav.Link href='https://github.com/JoeDebrah/Bootstrap-Website-Project'>
+                                <Card.Img variant="top" src="https://github.com/JoeDebrah/Main-Website/blob/main/src/assets/bootstrap-site-image.png?raw=true" />
+                            </Nav.Link>
+                        </Nav>
                         <Card.Body>
                             <Card.Title>Order An E-Book Online</Card.Title>
                             <Card.Text>
@@ -34,7 +42,11 @@ function ProjectSection() {
                 </Col>
                 <Col className='px-3'>
                     <Card>
+                        <Nav>
+                            <Nav.Link href='https://github.com/JoeDebrah/React-Hook-Form-Project'>                                
                         <Card.Img variant="top" src="https://github.com/JoeDebrah/Main-Website/blob/main/src/assets/login-initial.png?raw=true" />
+                            </Nav.Link>
+                        </Nav>
                         <Card.Body>
                             <Card.Title>React-Hook-Form</Card.Title>
                             <Card.Text>
@@ -45,7 +57,11 @@ function ProjectSection() {
                 </Col>
                 <Col className='px-3'>
                     <Card>
-                        <Card.Img variant="top" src="https://raw.githubusercontent.com/JoeDebrah/Main-Website/main/src/assets/Home-Page.png" />
+                        <Nav>
+                            <Nav.Link href='https://github.com/JoeDebrah/Next.js-Tickets-Page-Project'>
+                                <Card.Img variant="top" src="https://raw.githubusercontent.com/JoeDebrah/Main-Website/main/src/assets/Home-Page.png" />
+                            </Nav.Link>
+                        </Nav>
                         <Card.Body>
                             <Card.Title>Tickets Page</Card.Title>
                             <Card.Text>
