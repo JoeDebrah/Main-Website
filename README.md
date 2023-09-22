@@ -22,6 +22,8 @@
 🛠️ This is an interesting project i built with the help of the resources available of the react-bootstrap & react-hook-form website. It is a simple website about myself that links other projects i've worked on and a contact form built with react-bootstrap react-hook-form and validated with zod. This was largely built with react-bootstrap & react-hook-form.
 
 ---
+I also should add that the contact me page which contains a form validated with zod, is not connected to any api or backend so please dont expect an actual response from me. The form was just to demostrate my acquired skills.
+---
 
 ### 📚 Website References
 - 🔗 [react-bootstrap](https://react-bootstrap.netlify.app/)
